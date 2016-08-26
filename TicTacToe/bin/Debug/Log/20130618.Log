@@ -1,0 +1,18 @@
+2013/06/18 18:37:49 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214
+2013/06/18 18:37:50 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214
+2013/06/18 18:37:52 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214
+2013/06/18 18:37:52 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214
+2013/06/18 18:37:52 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214
+2013/06/18 18:37:53 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe\TicTacToe\Modules\modRobotUtilites.vb:line 214

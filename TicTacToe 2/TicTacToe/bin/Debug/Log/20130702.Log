@@ -1,0 +1,4 @@
+2013/07/02 18:01:39 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.modRobotUtilites.InitializePaths() in Z:\t\t\TicTacToe\Modules\modRobotUtilites.vb:line 228
+2013/07/02 18:01:41 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.modRobotUtilites.InitializePaths() in Z:\t\t\TicTacToe\Modules\modRobotUtilites.vb:line 228

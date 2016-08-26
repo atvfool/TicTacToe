@@ -1,0 +1,147 @@
+2013/06/13 17:51:41 - System.UnauthorizedAccessException: Access to the port 'COM4' is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at TicTacToe.CMove.InitiateRobotConnection() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 123
+2013/06/13 17:51:42 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 266
+2013/06/13 17:51:44 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 17:52:08 - System.IO.IOException: The port 'COM4' does not exist.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at TicTacToe.modRobotUtilites.InitiateRobotConnection() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Modules\modRobotUtilites.vb:line 113
+2013/06/13 17:52:42 - System.UnauthorizedAccessException: Access to the port 'COM4' is denied.
+   at System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   at System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   at System.IO.Ports.SerialPort.Open()
+   at TicTacToe.CMove.InitiateRobotConnection() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 123
+2013/06/13 17:52:43 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 266
+2013/06/13 17:52:44 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 17:53:03 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 266
+2013/06/13 17:53:04 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 18:13:36 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:36 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:37 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:38 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:38 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:38 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:38 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:39 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:40 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:41 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:41 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:41 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:13:41 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 309
+2013/06/13 18:13:41 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 217
+2013/06/13 18:15:00 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 255
+2013/06/13 18:15:01 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 163
+2013/06/13 18:15:02 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 255
+2013/06/13 18:15:58 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 255
+2013/06/13 18:15:59 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 163
+2013/06/13 18:16:03 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 255
+2013/06/13 18:16:04 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 163
+2013/06/13 18:16:31 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.CheckDistance() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 255
+2013/06/13 19:12:51 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 19:12:52 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 19:12:53 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 19:12:53 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 19:12:53 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174
+2013/06/13 19:12:53 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.CMove.MoveJoint() in C:\Users\arhayden\Desktop\TicTacToe061120132\TicTacToe\Classes\CMove.vb:line 174

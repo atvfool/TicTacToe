@@ -1,0 +1,81 @@
+2013/06/20 19:43:15 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:16 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:16 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:17 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:17 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:18 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:18 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:19 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:19 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:20 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:20 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:20 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:22 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:23 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:23 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:24 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:24 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:24 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:25 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:26 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:26 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:26 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:27 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:27 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:28 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269
+2013/06/20 19:43:28 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.ReadByte()
+   at TicTacToe.modRobotUtilites.GetRemaingMoveDistance(enuJointType enuJoint) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 244
+2013/06/20 19:43:29 - System.InvalidOperationException: The port is closed.
+   at System.IO.Ports.SerialPort.Write(String text)
+   at TicTacToe.modRobotUtilites.SendCommand(String strCommand) in C:\Users\arhayden\Desktop\TicTacToe06182013\TicTacToe\Modules\modRobotUtilites.vb:line 269

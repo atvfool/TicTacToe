@@ -1,0 +1,13 @@
+2013/07/28 15:46:38 - System.ArgumentNullException: Value cannot be null.
+Parameter name: source
+   at System.Linq.Enumerable.ElementAtOrDefault[TSource](IEnumerable`1 source, Int32 index)
+   at TicTacToe.CTicTacToeGame.GetChildren() in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 637
+2013/07/28 15:46:39 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.MiniMax(Int32 intDepth, Int32 intAlpha, Int32 intBeta, CTicTacToeGame& clsChildBoardWithMax) in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 540
+2013/07/28 15:46:40 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 704
+2013/07/28 15:52:17 - System.InvalidCastException: Unable to cast object of type 'TicTacToe.CTicTacToeGame' to type 'System.Collections.Generic.IEnumerable`1[TicTacToe.CTicTacToeGame]'.
+   at TicTacToe.CTicTacToeGame.GetChildren() in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 624
+   at TicTacToe.CTicTacToeGame.MiniMax(Int32 intDepth, Int32 intAlpha, Int32 intBeta, CTicTacToeGame& clsChildBoardWithMax) in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 540
+2013/07/28 15:52:19 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe\Classes\CTicTacToeGame.vb:line 703

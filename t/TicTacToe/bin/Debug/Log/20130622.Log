@@ -1,0 +1,6 @@
+2013/06/22 22:26:15 - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TicTacToe.CTicTacToeGame.InitializeBoard() in Z:\Dropbox\School\13SU\Captstone\TicTacToe06202013\TicTacToe\Classes\CTicTacToeGame.vb:line 80
+2013/06/22 22:27:53 - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TicTacToe.CTicTacToeGame.InitializeBoard() in Z:\Dropbox\School\13SU\Captstone\TicTacToe06202013\TicTacToe\Classes\CTicTacToeGame.vb:line 80
+2013/06/22 22:29:09 - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TicTacToe.CTicTacToeGame.InitializeBoard() in Z:\Dropbox\School\13SU\Captstone\TicTacToe06202013\TicTacToe\Classes\CTicTacToeGame.vb:line 80

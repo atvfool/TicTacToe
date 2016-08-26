@@ -1,0 +1,42 @@
+2013/07/14 08:44:23 - System.InvalidCastException: Unable to cast object of type 'TicTacToe.CTicTacToeGame' to type 'System.Collections.Generic.IEnumerable`1[TicTacToe.CTicTacToeGame]'.
+   at TicTacToe.CTicTacToeGame.GetChildren() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 622
+2013/07/14 08:44:26 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.MiniMax(Int32 intDepth, Int32 intAlpha, Int32 intBeta, CTicTacToeGame& clsChildBoardWithMax) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 533
+2013/07/14 08:44:27 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 686
+2013/07/14 08:47:33 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetChildren() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 622
+2013/07/14 08:47:34 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.MiniMax(Int32 intDepth, Int32 intAlpha, Int32 intBeta, CTicTacToeGame& clsChildBoardWithMax) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 533
+2013/07/14 08:47:34 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 686
+2013/07/14 09:55:47 - System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at TicTacToe.CTicTacToeGame.GetChildren() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 615
+2013/07/14 13:35:57 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:35:59 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:35:59 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:00 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:36:01 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:01 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:36:01 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.IsTerminalNode() in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 588
+2013/07/14 13:36:02 - System.NullReferenceException: Object reference not set to an instance of an object.
+   at TicTacToe.CTicTacToeGame.GetNextMoveFromNewBoard(CTicTacToeGame& clsNewBoard) in Z:\Dropbox\School\13SU\Captstone\TicTacToe 2\TicTacToe\Classes\CTicTacToeGame.vb:line 684
